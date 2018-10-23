@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    color:yellow;
+    font-size:50px;
+    font-family: 'Charmonman', cursive;
+}
+ul{
+    text-align:center;
+    color:aqua;
+    font-size:24px;
+    font-family: 'Mali', cursive;
+}
+body{
+    background-color:black;
+}
+img{
+    border-radius:200px;
+    border:dashed  yellow 5px;
+    width:500px;
+}
+
